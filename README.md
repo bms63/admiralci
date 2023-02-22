@@ -12,7 +12,7 @@ performance, security, or reproducibility.
 Please refer to the [`.github/workflows`](.github/workflows) directory
 to view the source code for the GitHub Actions workflows.
 
-## What these workflows do?
+## What these workflows do ?
 
 Most workflows have a `BEGIN boilderplate steps` and
 `END boilderplate steps` section within them which define some standard
